@@ -1,12 +1,11 @@
-# Linux and Networking
+# Linux e Redes
 
-Repositório com estudos práticos de Linux e Redes de Computadores.
+Estudos práticos de Linux e Redes de Computadores.
 
 ## Conteúdos
-- Comandos básicos e administração Linux
-- Estrutura de diretórios e permissões
-- TCP/IP, DNS e conceitos de rede
-- Anotações práticas e exercícios
+- Linux: comandos, permissões e conceitos básicos
+- Redes: TCP/IP, DNS e fundamentos
+- Anotações e exercícios práticos
 
 ## Objetivo
-Consolidar base técnica em sistemas Linux e redes para atuação em Cibersegurança.
+Consolidar base técnica em Linux e Redes para atuação em Cibersegurança (Blue Team).
